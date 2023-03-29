@@ -1,7 +1,9 @@
 
 # awesome-AIGC-tools
 
-在线浏览：[腾讯文档地址](https://docs.qq.com/sheet/DVXdSc0ZhVVB2dVRv?tab=ss_b6943k)
+## 在线浏览：[腾讯文档地址](https://docs.qq.com/sheet/DVXdSc0ZhVVB2dVRv?tab=ss_b6943k)
+## 免费ChatGPT网站](./freeChatGPT-sites.md)
+
 
 可能是目前为止最全的一个AI工具列表。
 按照类别顺序排列，英文介绍和中文介绍在后面2列。

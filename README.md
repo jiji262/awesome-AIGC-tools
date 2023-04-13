@@ -16,34 +16,16 @@ AIGC不仅可以帮助内容创作者提高创作效率，还能够为用户提�
 
 
 # ❤️&nbsp; 免费ChatGPT网站
-
-[⭐⭐] https://chatbot.theb.ai/
-
-[⭐⭐] https://chat.binjie.site:7777/
-
-[⭐⭐] http://ai.usesless.com/
-
-[⭐⭐] https://wen.geekr.dev
-
-[⭐⭐] https://free.anzz.top/
-
-[⭐⭐] https://www.aiai.zone/
-
-[⭐⭐] https://chat.aidutu.cn/
-
-[⭐⭐] https://chat10.xeasy.me
-
-[⭐⭐] https://chat.wobcw.com/
-
-[⭐⭐] https://aka.mydog.buzz
-
-[⭐⭐] https://greengpt.app/
-
-[⭐⭐] https://ai.ov.cm/
-
-[⭐⭐] https://chat.extkj.cn/
-
-[⭐⭐] https://chatgpt35.theinspiredgroup.com
+1.		Beta.character.ai	🛫🔑😄⭐		🔗
+2.		Poe.com	🛫🔑😄⭐		🔗
+3.		Chatbot.theb.ai	🛫😄⭐		🔗
+4.		Chat23.yqcloud.top	😄⭐	🆕	🔗
+5.		Gpt.qingting.work	😄⭐	🆕	🔗
+6.		Free.anzz.top	🛫😄⭐		🔗
+7.		Aitianhu.com	😄⭐		🔗
+8.		Chat.aidutu.cn	😄⭐		🔗
+9.		Chat.wobcw.com	😄⭐		🔗
+10.		Gpt.aieasy.one	😄⭐	🆕	🔗
 
 更多查看 [免费ChatGPT网站大全](./freeChatGPT-sites.md)
 

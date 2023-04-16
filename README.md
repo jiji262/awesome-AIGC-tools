@@ -20,18 +20,91 @@ AIGC不仅可以帮助内容创作者提高创作效率，还能够为用户提�
 
 # ❤️&nbsp; 免费ChatGPT网站
 
-1.		Beta.character.ai	🛫🔑😄⭐		
-2.		Poe.com	🛫🔑😄⭐		
-3.		Chatbot.theb.ai	🛫😄⭐		
-4.		Chat23.yqcloud.top	😄⭐	🆕	
-5.		Gpt.qingting.work	😄⭐	🆕	
-6.		Free.anzz.top	🛫😄⭐		
-7.		Aitianhu.com	😄⭐		
-8.		Chat.aidutu.cn	😄⭐		
-9.		Chat.wobcw.com	😄⭐		
-10.		Gpt.aieasy.one	😄⭐	🆕	
+<details>
+  <summary> 💻 最近更新可用站点 🔽 </summary>
 
-更多查看 [免费ChatGPT网站大全](./freeChatGPT-sites.md)
+|     | 网址                             | 标注      | 备注          |
+|-----|--------------------------------|---------|-------------|
+| 1.  | Beta.character.ai              | 🛫🔑😄⭐ |             |
+| 2.  | Poe.com                        | 🛫🔑😄⭐ |             |
+| 3.  | Chatbot.theb.ai                | 🛫😄⭐   |             |
+| 4.  | Chat23.yqcloud.top             | 😄⭐     |             |
+| 5.  | Free.anzz.top                  | 🛫😄⭐   |             |
+| 6.  | Aitianhu.com                   | 😄⭐     |             |
+| 7.  | Chat.aidutu.cn                 | 😄⭐     |             |
+| 8.  | Easyai.one                     | 🆕 😄⭐  |             |
+| 9.  | Gpt.anoyi.com                  | 🆕 😄⭐  | 限时免费        |
+| 10. | Chat.wobcw.com                 | 😄⭐     |             |
+| 11. | Gpt.aieasy.one                 | 😄⭐     |             |
+| 12. | Chat14.xeasy.me                | 😄⭐     |             |
+| 13. | Chat.extkj.cn                  | 😄⭐     |             |
+| 14. | Chat2.zhuleixx.top             | 🆕 😄⭐  |             |
+| 15. | Chat.68686.ltd                 | 😄⭐     |             |
+| 16. | Chat.ohtoai.com                | 😄⭐     |             |
+| 17. | Open-production.up.railway.app | 😄⭐     |             |
+| 18. | Openmao.panchuang.net          | 🆕 😄⭐  |             |
+| 19. | Gpt.xcbl.cc                    | 🆕 😄⭐  |             |
+| 20. | B.mydog.buzz                   | 🆕 😄⭐  |             |
+| 21. | Chat.bnu120.space              | 😄⭐     |             |
+| 22. | 2dog.io                        | 😄      |             |
+| 23. | Nbchat.github.io               | 🆕 😄⭐  |             |
+| 24. | Wen.geekr.dev                  | 🛫😄⭐   |             |
+| 25. | Chat.hywwwlove.top             |         |             |
+| 26. | Heimoshuiyu.github.io          | 🛫😄⭐   |             |
+| 27. | Cool-js.com                    |         |             |
+| 28. | Builtbyjesse.com               | 🔑      |             |
+| 29. | Chat.opengpt88.com             | 🔑      |             |
+| 30. | Codenews.cc                    | 🔑      |             |
+| 31. | Ohmygpt.com                    | 🛫🔑    |             |
+| 32. | Typingmind.com                 | 🛫🔑    |             |
+| 33. | Bz1y.cn                        | 🔑      |             |
+| 34. | Chat.alpaca-bi.com             | 🔑      |             |
+| 35. | Chat.eaten.fun                 | 🔑      |             |
+| 36. | Chat.wxredcover.cn             | 🔑      | 关注公众号获取密码   |
+| 37. | Tdchat.im                      | 🔑      | 可尝试GPT4     |
+| 38. | Gpt.clashus.com                | 🛫🔑    |             |
+| 39. | Ai.ov.cm                       | 🛫🔑    |             |
+| 40. | Gpt.chatxyz.online             | 🛫🔑    |             |
+| 41. | Hzdjs.cn                       | 🔑      |             |
+| 42. | Kejilequ.com                   | 🔑      |             |
+| 43. | Ichat-gpt.net                  | 🔑      |             |
+| 44. | Bo.tychat.me                   | 🔑      |             |
+| 45. | Gpt.chieh.top                  | 🔑      | 需要登录或加群获取密码 |
+| 46. | Filedf12d74756b0.v4.h5sys.cn   | 🔑      | 需注册登录       |
+| 47. | Hzdjs.cn                       | 🔑      |             |
+| 48. | Chat.kosmos.pink               | 🔑      | 十次/小时       |
+| 49. | Gtpcleandx.xyz                 |         |             |
+| 50. | Gpt.qingting.work              | 🤑🎁    | 每日20次       |
+| 51. | Liaobots.com                   | 🤑🎁    | 按量付费        |
+| 52. | Ailab.fit                      |         | 需要Key使用     |
+| 53. | Chat.emmmm.dev                 | 🤑🎁    |             |
+| 54. | Gpt33.cn                       | 🤑🎁    |             |
+| 55. | Nhhg.xyz                       | 🤑🎁    | 登录后有免费次数    |
+| 56. | Ai.moss560w.cn                 | 🤑      |             |
+| 57. | Chat.extnav.com                | 🤑      |             |
+| 58. | A.aizh.app                     | 🤑      | 需注册登录       |
+| 59. | Chat.paoying.net               | 🤑      | 付费使用        |
+| 60. | Gptnext.top                    | 🤑      |             |
+| 61. | Chat2ai.cn                     | 🤑      |             |
+| 62. | Aigcfun.com                    | 🤑      |             |
+| 63. | Chatcat.pages.dev              | 🛫🤑    |             |
+| 64. | X-code.fun                     | 🛫🤑    |             |
+| 65. | Chat.topsearcher.top           | 🛫🤑    |             |
+| 66. | Chat35.com                     | 🛫🤑    |             |
+| 67. | Chat.sunls.me                  | 🛫🤑    |             |
+| 68. | Freechatgpt.chat               | 🛫🤑    |             |
+| 69. | Litechat.22733.site            | 🛫🤑    |             |
+| 70. | Ai117.com                      | 🛫🤑    |             |
+| 71. | Tryai.top                      | 🛫🤑    |             |
+| 72. | Trychatgp.com                  | 🛫🤑    |             |
+| 73. | Chatforai.com                  | 🛫🤑    |             |
+| 74. | Newb.site                      | 🛫🤑    |             |
+| 75. | Ai.yiios.com                   | 🛫🤑    | key 或 付费使用  |
+| 76. | Ai.okmiku.com                  | 🛫🤑    |             |
+| 77. | Chat.51buygpt.com              | 🛫🤑    |             |
+
+
+</details>
 
 
 

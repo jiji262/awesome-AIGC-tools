@@ -6,7 +6,7 @@ AIGC不仅可以帮助内容创作者提高创作效率，还能够为用户提�
 # Update
 
 一份国外博主总结的ChatGPT高阶教程，有了这篇教程，你可以玩转ChatGPT，新手变成专家的必由之路！
-[[https://doc.clickup.com/37456139/d/h/13q28b-204/5a46c0ced275cf7](https://doc.clickup.com/9007160203/d/h/8cdwpwb-443/f4e90b2602aea72)](https://doc.clickup.com/9007160203/d/h/8cdwpwb-443/f4e90b2602aea72)
+https://doc.clickup.com/9007160203/d/h/8cdwpwb-443/f4e90b2602aea72
 
 **有任何问题，可以去星球交流，目前设置了最低数字！**
 ![知识星球 优惠](https://s1.ax1x.com/2023/04/14/ppzBhsH.jpg)

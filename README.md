@@ -3,32 +3,23 @@ AIGC（AI Generated Content）是一种利用人工智能技术生成内容的�
 AIGC不仅可以帮助内容创作者提高创作效率，还能够为用户提供更加个性化的内容服务。例如，AIGC可以为用户推荐他们可能感兴趣的内容，并能够根据用户的阅读行为和偏好，为他们提供定制化的内容推荐。此外，在商业领域，AIGC也被广泛应用于品牌营销、广告投放等方面，为企业提供更加精准的营销服务。可以预见，在未来，随着AIGC技术的不断发展和完善，它将成为互联网内容创作和传播的重要驱动力之一。
 
 
+# Update
+
+一份国外博主总结的ChatGPT高阶教程，有了这篇教程，你可以玩转ChatGPT，新手变成专家的必由之路！
+https://doc.clickup.com/9007160203/d/h/8cdwpwb-443/f4e90b2602aea72
+
 # 🚀&nbsp; AIGC工具大全
 
 可能是目前为止最全的一个AI工具列表。
 按照类别顺序排列，英文介绍和中文介绍在后面2列。
 
 ### [腾讯文档地址](https://docs.qq.com/sheet/DVXdSc0ZhVVB2dVRv?tab=ss_b6943k)
-### [直接浏览](./tools.md)
+### [直接浏览工具大全文档](./tools.md)
 
 
-# ❤️&nbsp; 免费ChatGPT网站
+# AIGC 工具书签 《2023-11-03更新》
 
-1.		Beta.character.ai	🛫🔑😄⭐		
-2.		Poe.com	🛫🔑😄⭐		
-3.		Chatbot.theb.ai	🛫😄⭐		
-4.		Chat23.yqcloud.top	😄⭐	🆕	
-5.		Gpt.qingting.work	😄⭐	🆕	
-6.		Free.anzz.top	🛫😄⭐		
-7.		Aitianhu.com	😄⭐		
-8.		Chat.aidutu.cn	😄⭐		
-9.		Chat.wobcw.com	😄⭐		
-10.		Gpt.aieasy.one	😄⭐	🆕	
-
-更多查看 [免费ChatGPT网站大全](./freeChatGPT-sites.md)
-
-
-
+### [直接浏览书签链接](./AI-tools-bookmarks.md)
 
 # ✅&nbsp; - [🤖 ChatGPT 中文指南 🤖](#-chatgpt-中文指南-)
 
@@ -727,5 +718,11 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 欢迎通过 issue 或 PR 提交AIGC 、 ChatGPT 的相关项目，玩法，优质资源~
 
 也欢迎各种贡献，包括修复错误、添加新功能和改进文档。
+
+
+**有任何问题，可以去星球交流，目前设置了最低数字！**
+![知识星球 优惠](https://s1.ax1x.com/2023/04/14/ppzBhsH.jpg)
+
+
 
 

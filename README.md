@@ -45,6 +45,7 @@ ChatGPT是由OpenAI开发的一种基于GPT-3.5架构的人工智能聊天机器
     - [提高 ChatGPT 数学能力: WolframAlpha](#提高-chatgpt-数学能力-wolframalpha)
     - [visual ChatGPT](#visual-chatgpt)
     - [Multimedia GPT](#multimedia-gpt)
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for branded short clips, launch visuals, and campaign-ready creative assets.
     - [多模态聊天机器人: genmo](#多模态聊天机器人-genmo)
     - [基于 ChatGPT 创建个人的知识库 AI: Copilot Hub](#基于-chatgpt-创建个人的知识库-ai-copilot-hub)
     - [人工智能医生：ChatDoctor](#人工智能医生chatdoctor)

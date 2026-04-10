@@ -428,6 +428,10 @@ GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常�
 
 ![cursor](imgs/cursor.jpg)
 
+#### [Claude Code 全生态管理平台: CCHub](https://github.com/Moresl/cchub)
+
+CCHub 是一个开源桌面应用（Tauri + React + Rust），用于管理 Claude Code 生态：MCP 服务市场一键安装、配置一键切换（Claude/Codex/Gemini）、12 个工作流模板、安全审计、Autopilot 自动驾驶。跨平台，MIT 开源。
+
 #### [帮你生成完整 Github README](https://readme.rustc.cloud/zh)
 简单描述项目简介即可快速生成 GitHub README 内容
 

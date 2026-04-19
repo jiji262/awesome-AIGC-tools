@@ -723,6 +723,5 @@ Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微
 **有任何问题，可以去星球交流，目前设置了最低数字！**
 ![知识星球 优惠](https://s1.ax1x.com/2023/04/14/ppzBhsH.jpg)
 
-
-
-
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain): Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT licensed.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge): 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT licensed.

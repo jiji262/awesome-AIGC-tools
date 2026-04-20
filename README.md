@@ -465,6 +465,8 @@ CodiumAI这个项目构建了一个名为TestGPT的语言模型，是一个专�
 
 #### [在任意软件上操作ChatGPT: Portal](https://github.com/lxfater/Portal) 
 
+#### [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - 浏览器侧 AI 编码工具栏，支持上下文捕获与确认后应用 diff
+
 
 Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT。
 

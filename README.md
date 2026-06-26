@@ -119,6 +119,7 @@ ChatGPT是由OpenAI开发的一种基于GPT-3.5架构的人工智能聊天机器
 * 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决 or [海外号码](https://sms-activate.org/)
 * 国内注册教程及各种问题解决: https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb
 * [Plus 开通教程](https://github.com/gclhaha/chatGPT-plus-guide)
+* [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 
 ![ChatGPT](imgs/openai_chatgpt.jpg)
 

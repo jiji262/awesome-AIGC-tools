@@ -584,6 +584,7 @@ Prompt 编写模式是一份中文教程，介绍了系列 Prompt 编写模式�
 慎用！有封号风险，部分指令对 GPT-4 可能无效，可能随着 OpenAI 对模型的改进失效。
 
 - [ChatGPT 越狱的奇技淫巧: Jailbreak Chat](https://www.jailbreakchat.com/)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 
 <ul>

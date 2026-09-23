@@ -25,6 +25,7 @@ https://doc.clickup.com/9007160203/d/h/8cdwpwb-443/f4e90b2602aea72
 
 ChatGPT是由OpenAI开发的一种基于GPT-3.5架构的人工智能聊天机器人，可在不同领域和场景下提供自然语言交互服务。ChatGPT训练有素，使用强化学习技术，对用户的提问、回答和上下文进行理解和分析，可以处理大部分人工智能聊天的任务，并在一定程度上模拟人类的智能水平。其计算力和性能已经超过了大多数人工智能聊天机器人，其语言生成能力可以帮助人们更好地理解和交流数据。ChatGPT不断升级，与各种软件和应用程序集成，扩大了其应用范围，并向着更高效、更精准的方向发展，为人们提供更好的服务。
 
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
   - [什么是 ChatGPT ?](#什么是-chatgpt-)
   - [使用途径](#使用途径)
   - [ChatGPT 工具](#chatgpt-工具)

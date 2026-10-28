@@ -10,6 +10,13 @@ https://doc.clickup.com/9007160203/d/h/8cdwpwb-443/f4e90b2602aea72
 
 # 🚀&nbsp; AIGC工具大全
 
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credits. Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official xAI or X product
+
 可能是目前为止最全的一个AI工具列表。
 按照类别顺序排列，英文介绍和中文介绍在后面2列。
 

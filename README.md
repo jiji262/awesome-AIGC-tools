@@ -17,6 +17,7 @@ https://doc.clickup.com/9007160203/d/h/8cdwpwb-443/f4e90b2602aea72
 ### [直接浏览工具大全文档](./tools.md)
 
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 # AIGC 工具书签 《2023-11-03更新》
 
 ### [直接浏览书签链接](./AI-tools-bookmarks.md)

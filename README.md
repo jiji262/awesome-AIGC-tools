@@ -346,6 +346,9 @@ ChatGPT是由OpenAI开发的一种基于GPT-3.5架构的人工智能聊天机器
 
 
 ### [与视频对话：ChatYoutube](https://chatyoutube.com/)
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design)：Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 丢一个 YouTube 视频链接，与任何YouTube视频对话。
 
